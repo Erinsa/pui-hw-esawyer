@@ -1,5 +1,5 @@
 # PUI homework
 
-Deployed website: `add the URL to your deployed website`
+Deployed website: `erinsa.github.io/pui-hw3/`
 
-Repository link: `add the URL to this repository`
+Repository link: `https://github.com/Erinsa/pui-hw3`
